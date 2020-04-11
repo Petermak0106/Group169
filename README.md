@@ -12,12 +12,12 @@ This is a battle game of a fight between players. Players have to defend their b
   - Each player will be initiated with 3 bases and 1 defender. The initial game points are set to 0 if the player do not use any extra gadget. Players can choose to throw a dice to obtain game points or to build weapons using their game points.
   - If a player choose to throw a dice, the player can choose which dice they want to throw. The point of dice is equal to the game points obtained by the player in the current round. Different dices with different combinations of points can be purchased in the shop.
   - If a player choose to use their game points, they can choose the following weapons.
-  '''
+  ```
   1. Defender. A protective cover to all bases.
   2. Battery. An attackive tool to destroy other's weapons or bases. Bases can be attacked only if there are no defender in the enemie side.
   3. Air fighter. An attacktive tool to destroy other's bases directly without the defence of the defender.
   4. Protective cover. A protective cover to protect one of the bases. It can endure harder attacks.
-  '''
+  ```
   
 
 - Shop

@@ -30,15 +30,15 @@ This is a battle game of a fight between players. Players have to defend their b
 ### 3. Shop
   - The shop consists of different items to be used in battles, which these products can be bought by money. The products include:
     ##### 1. Dices
-      - type 1: 1,2,3,4,5,6 (default)
-      - type 2: 1,1,1,1,5,10
-      - type 3: 3,3,3,4,4,4
+      - Default Dice: 1,2,3,4,5,6 (default)
+      - Dice Pro: 1,1,1,1,5,10
+      - Dice Pro Max: 3,3,3,4,4,4
     ##### 2. Pre-built Defender
-      - add extra defenders at the begining of the battle
+      - Add extra defenders at the begining of the battle
     ##### 3. Pre-built Battery
-      - add extra battery at the begining of the battle
+      - Add extra battery at the begining of the battle
     ##### 4. Extra game points
-      - add extra defenders at the begining of the battle
+      - Add extra defenders at the begining of the battle
 
 ## Functions to be implemented
 ### 1. Loading players' account
@@ -54,20 +54,19 @@ This is a battle game of a fight between players. Players have to defend their b
 
 ## Structure to be used
 ### 1. Player:
-  - player's name
-  - player's level
-  - player's money balance
-  - items owned by the player
+  - Player's name
+  - Player's level
+  - Player's money balance
+  - Items owned by the player
 ### 2. Battle:
-  - number of bases
-  - number of defenders
-  - number of batteries
-  - number of air fighters
-  - number of protective covers
+  - Number of bases
+  - Number of defenders
+  - Number of batteries
+  - Number of air fighters
+  - Number of protective covers
 ### 3. Shop items:
-  - dice1
-  - dice2
-  - dice3
-  - prebuilt defender
-  - prebuilt battery
-  - extra game points
+  - Dice Pro 
+  - Dice Pro Max 
+  - Prebuilt defender
+  - Prebuilt battery
+  - Extra gamepoints

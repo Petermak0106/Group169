@@ -7,6 +7,8 @@
 ## Introduction
 This is a battle game of a fight between two players. Players have to defend their bases not to be attacked, while at the same time they have to attack others' base. A player loses when all of his or her bases are destroyed. The last player who survived wins the game.
 
+### We contain account_record.txt, gamerule.txt, shop.txt and temp.txt
+
 ## Gameflow
 ### 1. Account
   - Every player owns an account. Players should login their accounts one by one. A player can accumulate exp. when he or she wins a battle. When a player reaches certain exp. , he or she will upgrade their level and gets money. Money are stored to the player's account which can be used to buy extra gadgets in the shop.

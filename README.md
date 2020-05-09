@@ -30,9 +30,9 @@ This is a battle game of a fight between players. Players have to defend their b
 ### 3. Shop
   - The shop consists of different items to be used in battles, which these products can be bought by money. The products include:
     ##### 1. Dices
-      - Default Dice: 1,2,3,4,5,6 (default)
-      - Dice Pro: 1,1,1,1,5,10
-      - Dice Pro Max: 3,3,3,4,4,4
+      - Default Dice: (combination: 1,2,3,4,5,6) (default)
+      - Dice Pro: (combination: 1,1,1,1,5,10)
+      - Dice Pro Max: (combination: 3,3,3,4,4,4)
     ##### 2. Pre-built Defender
       - Add extra defenders at the begining of the battle
     ##### 3. Pre-built Battery

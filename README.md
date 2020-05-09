@@ -40,33 +40,36 @@ This is a battle game of a fight between two players. Players have to defend the
     ##### 4. Extra game points
       - Add extra defenders at the begining of the battle
 
-## Functions to be implemented
-### 1. Loading players' account
-  - Input the file containg players' game status.
-### 2. Shop system
-  - Read the money balance in player's account and items purchased. Return the money balance of a player after purchase.
-### 3. Battle set up
-  - Read the item used by players. Return the game set (number of defender and batteries).
-### 4. Dice
-  - Read the type of dice the player used. Return the dice points (a random point of the dice).
-### 5. Battle
-  - Read the attack command by the player. Return the action.
+## Functions included
+#### 1. add_account
+  - add accounts to the account list if a player is newly registered 
+ #### 2. CheckItems
+  - show items owned each players 
+ #### 3. grow_account_list
+  -we use dynamic array to store account informations. It grows the size of the dynamic array. Return a enlarged array with account informations 
+ #### 4. load_account
+  -we load account informations from a textfile into a dynamic array during runtime. Returns the number of accounts loaded
+ ### 5. login_menu
+  -Returns player's login option
+ #### 6. purchase
+  -allow players to purchase items. Return player's money and purchased items
+ #### 7. RunBattle
+  -For players to join battle. Returns winner's exp and money
+ #### 8. search_account
+  -search player's account information from the loaded dynamic list
+ #### 9. SetBattlet
+  - load player's pre-built items used before entering a battle
+ #### 10. shop.cpp
+  -introduction of shop items. Players can be directed to purchase function here
+ #### 11. update.cpp
+  -update player's account information after purchase and battle
 
-## Structure to be used
-### 1. Player:
-  - Player's name
-  - Player's level
-  - Player's money balance
-  - Items owned by the player
-### 2. Battle:
-  - Number of bases
-  - Number of defenders
-  - Number of batteries
-  - Number of air fighters
-  - Number of protective covers
-### 3. Shop items:
-  - Dice Pro 
-  - Dice Pro Max 
-  - Prebuilt defender
-  - Prebuilt battery
-  - Extra gamepoints
+### Data Structures
+We use a text file to store all player's account information. When the programme begins, the dynamic array in the programme will load all account informations from the textfile. 
+
+### Dynamic memory arrangement
+We will use dynamic array to store all player's information. We also use pointers to represent accounts in functions.
+
+### File Input/Output
+We input and output files containing account information. Also, we use file output to show long texts, like shop list introduction and gamerule.
+

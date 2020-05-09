@@ -1,0 +1,23 @@
+***************
+*  Item List  *
+***************
+Item 1: Dice Pro ($500)
+    Lucky guy? Use this dice in your battle to gain more game points!
+    (Dice combination: 0,1,1,1,5,10)
+
+Item 2: Dice Pro Max ($500)
+    Unlucky? Use this dice in  your battle to ensure you have reasonable gamepoints!
+    (Dice combination: 3,4)
+
+Item 3: Pre-built defender ($200)
+    WE BUILD THE WALL! A pre-built defender defend your base at the begining of the battle!
+
+Item 4: Pre-built battery ($200)
+     Meet a defensive enemy? Use a pre-built battery to destory their base before they build a defender!
+
+Item 5: Extra gamepoints ($100/each)
+    Bored in throwing dice? Use extra game points to begin your battle!
+
+Shop Menu:
+1. Purchase
+0. Quit

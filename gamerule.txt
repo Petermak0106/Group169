@@ -1,0 +1,19 @@
+General
+Players can earn exp and money through battles.
+Players can use money in the shop to purchase items that can be used to prepare for their battle. 
+When a player upgrades, he or she will receive a money bonus.
+
+Battle
+Before the battle, players can choose the number of items to be used in the battle.
+Both players will begin the battle by 3 bases.
+A player wins when he or she destroys all three bases of the other player.
+
+The 2 players can choose to roll a dice to gain game points, build attacking tools, attack another player, or defend themselves.
+For rolling a dice, players will be provided the dice they have, which are default or can be bought at the Shop.
+They can earn gamepoints for building attacking or defensive tools.
+For attacking, players can choose to build attack tools or to attack another player with their existing batteries or launch an air fighter.
+A boom with 1 attack point can destroy a defender or minus the HP of a protective cover by 1.
+An air fighter can overlook defenders and destroy the protective cover or the base of another player directly.
+For defending, players can either build a defender or a protective cover.
+A protective cover with HP of 2 protects the bases directly from both booms and air fighters.
+A defender with 1 HP can only defend from booms.
